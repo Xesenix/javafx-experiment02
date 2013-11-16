@@ -23,5 +23,8 @@ Tasks:
 	- [ ] selecting paths listview item selects path for editing 
 	- [ ] selecting points listview item selects points for editing
 
+Links
+-----
+
 For more experiments:
-[Experiments project](/..)
+[Experiments project](https://github.com/Xesenix/javafx-experiments)
